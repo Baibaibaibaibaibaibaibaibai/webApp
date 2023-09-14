@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+  }
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+
+p{
+    text-align:center;
+    /*这是另一个注释*/
+    color:white;
+    font-family:arial;
+}
