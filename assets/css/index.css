@@ -1,15 +1,54 @@
-body {
-    background-color: red;
-  }
-
-h1 {
-    color: maroon;
-    margin-left: 40px;
+#bai{
+    background-color: lightgray;
+    width: 66%;
+    font-size: 200%;
+    text-align: center;
+    position: relative;
+    left: 0;
 }
 
-p{
-    text-align:center;
-    /*这是另一个注释*/
-    color:white;
-    font-family:arial;
+#sub_bai{
+    background-color: lightgray;
+    width: 66%;
+    font: 'italic';
+    font-size:200%;
+    position: relative;
+    left: 0;
+}
+
+#all_bai{
+    background-color: lightgray;
+    width: 66%;
+    position: relative;
+    left: 0;
+}
+
+#first_bai{
+    background-color: lightgray;
+    width: 66%;
+    height: 340px;
+    font-family: 'italic';
+    font-size: 200%;
+    position: relative;
+    left: 0;
+}
+
+#second_bai{
+    background-color: lightgray;
+    width: 66%;
+    font-size:150%;
+    position: relative;
+    left: 0;
+}
+
+#pic_bai{
+    background-color: lightgray;
+    width: 33%;
+    position: absolute;
+    left: 67%;
+    top: 0px;
+}
+body{
+    background-color: lightgray;
+
 }
